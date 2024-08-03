@@ -49,7 +49,7 @@ para que eu possa gerenciar os cursos na plataforma.
 
 ## Critérios para a Criação do User Story
 
-1. **Necessidade do Administrador:** Identificar que o administrador precisa de uma forma fácil e eficiente para visualizar e gerenciar todos os cursos cadastrados.
+1. **Necessidade do Administrador:** Identificar que o administrador/instrutor precisa de uma forma fácil e eficiente para visualizar e gerenciar todos os cursos cadastrados.
 2. **Experiência do Usuário:** Focar na usabilidade e acessibilidade da listagem, garantindo que ela seja intuitiva e responsiva em diferentes dispositivos.
 3. **Organização de Dados:** Implementar funcionalidades de ordenação e filtragem para facilitar a localização de cursos específicos.
 4. **Gestão de Cursos:** Incluir links para edição e remoção de cursos diretamente na lista, simplificando a administração.
